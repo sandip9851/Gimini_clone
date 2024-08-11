@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gimini_clone/static/css/main.6f401ac9.css",
+    "main.js": "/Gimini_clone/static/js/main.2644b7f1.js",
+    "static/media/user_icon.jpg": "/Gimini_clone/static/media/user_icon.2cffeb8d09a0dcb18bd8.jpg",
+    "static/media/gallery_icon.png": "/Gimini_clone/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/Gimini_clone/index.html",
+    "main.6f401ac9.css.map": "/Gimini_clone/static/css/main.6f401ac9.css.map",
+    "main.2644b7f1.js.map": "/Gimini_clone/static/js/main.2644b7f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f401ac9.css",
+    "static/js/main.2644b7f1.js"
+  ]
+}
